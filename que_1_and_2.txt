@@ -1,0 +1,56 @@
+Que1) Explain Rules For Declaring Variables in C.
+
+Variable names can only contain letters (uppercase or lowercase), digits (0-9), and underscore (_). The first character of a variable name must be a letter or underscore.
+
+Variable names cannot be the same as keywords or predefined identifiers in C.
+
+Variable names are case-sensitive, which means that "count" and "Count" are two different variables.
+
+Variables must be declared before they are used in the program.
+
+The syntax for declaring a variable is: data_type variable_name;
+
+Multiple variables of the same data type can be declared in a single line by separating them with commas. For example: int x, y, z;
+
+Variables can be assigned an initial value when they are declared. For example: int x = 10;
+
+It is possible to declare a variable without assigning an initial value. In this case, the variable will contain a random value until it is assigned a value explicitly.
+
+Variables can be declared at the beginning of a block of code, such as a function, or within the block itself.
+
+The scope of a variable is the area of the program where it can be accessed. A variable declared within a block of code can only be accessed within that block.
+
+Que2)  Explain all Data Types with their ranges, and how they are declared in C.
+
+
+     In C programming language, there are several data types that are used o define variables, each with different ranges and storage sizes.
+     Here are the most commonly used data types in C, along with their ranges and how they are declared:
+
+     1) char: This data type is used to store single characters or small integers. It is declared as follows:
+          The range of char data type is from -128 to 127, or from 0 to 255 if unsigned.
+          char character_variable = 'a';
+ 
+     2) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
