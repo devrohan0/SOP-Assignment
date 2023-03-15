@@ -30,7 +30,23 @@ Que2)  Explain all Data Types with their ranges, and how they are declared in C.
           The range of char data type is from -128 to 127, or from 0 to 255 if unsigned.
           char character_variable = 'a';
  
-     2) 
+     2) int: This data type is used to store integers. It is declared as follows
+              The range of int data type is from -2147483648 to 2147483647.
+
+     3)    int - Used to store integers (whole numbers) that can be either positive or negative. The range of the int data type is typically from -32,768 to 32,767 on 16-bit machines, and from -2,147,483,648 to 2,147,483,647 on 32-bit machines.
+
+      4) float - Used to store single-precision floating-point numbers, which are numbers with a fractional part. The range of the float data type is typically from 1.2E-38 to 3.4E+38, with a precision of 6 decimal places.
+
+     5) double - Used to store double-precision floating-point numbers, which are numbers with a fractional part and higher precision than float. The range of the double data type is typically from 2.3E-308 to 1.7E+308, with a precision of 15 decimal places.
+
+    6) void - Used to indicate that a function or pointer does not return a value or to declare a generic pointer.
+
+     7) short - Used to store smaller integers than int, typically from -32,768 to 32,767.
+
+     8) long - Used to store larger integers than int, typically from -2,147,483,648 to 2,147,483,647.
+
+      9) unsigned - Used to store only positive values of the int, short, or long data types.
+            
 
 
 
