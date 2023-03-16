@@ -1,6 +1,6 @@
 /* Q5. Write a menu driven program for the following options :
 (i) To find whether entered no. is even or odd. 
-(ii) To display sum of two entered numbers.*/
+(ii) To display sum of two entered numbers. */
 
 #include <stdio.h>
 
